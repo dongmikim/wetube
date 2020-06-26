@@ -1,7 +1,7 @@
-import { videos } from '../db';
+import { videosData } from '../db';
 
 export const home = (req, res) => {
-  res.render('home', { pageTitle: 'Home', videos });
+  res.render('home', { pageTitle: 'Home', videosData });
 };
 
 export const search = (req, res) => {
