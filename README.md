@@ -14,3 +14,6 @@ Nomadcoder - cloning youtube with vanila and nodeJS
 - [ ] Upload
 - [ ] Video Detail
 - [ ] Edit Video
+
+gitignore
+- add dir **uploads**
